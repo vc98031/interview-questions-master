@@ -10,16 +10,16 @@
 | 3   | [Who is your role model or Motivator and why](#Who-is-your-role-model-or-Motivator-and-why)                                                        |
 | 4   | [The best time of the year](#The-best-time-of-the-year)                                                                                 |
 | 5   | [My Favorite Day of the Week](#My-Favorite-Day-of-the-Week)                                                                   |
-| 6   | [What is your field ? Why did you choose this field ?](#What-is-your-field-?-Why-did-you-choose-this-field-?)                                                                 |
-| 7   | [What country do you think is the best to live ?](#What-country-do-you-think-is-the-best-to-live-?)                                                               |
-| 8   | [What is really the best to live Village or City ?](#What-is-really-the-best-to-live-Village-or-City-?)                                                                                         |
+| 6   | [What is your field ? Why did you choose this field ?](#What-is-your-field?Why-did-you-choose-this-field?)                                                                 |
+| 7   | [What country do you think is the best to live ?](#What-country-do-you-think-is-the-best-to-live?)                                                               |
+| 8   | [What is really the best to live Village or City ?](#What-is-really-the-best-to-live-Village-or-City?)                                                                                         |
 | 9   | [The Good & Bad uses of computers](#The-Good-&-Bad-uses-of-computers)                                                |
 | 10  | [Advantages and Disadvantages of the Internet](#Advantages-and-Disadvantages-of-the-Internet)                                                                                         |
 | 11  | [Why English Is Important ?](#what-is-a-first-class-function)                                                                                                 |
-| 12  | [Advantages & Disadvantages of the Use of Email](#Advantages-&-Disadvantages-of-the-Use-of-Email)                                                                                                |
+| 12  | [Advantages & Disadvantages of the Use of Email](#Advantages&Disadvantages-of-the-Use-of-Email)                                                                                                |
 | 13  | [Advantages and disadvantages of mobile phones](#Advantages-and-disadvantages-of-mobile-phones)                                                                                               |
 | 14  | [In my free time, I like to spend time with my friends and family!](#In-my-free-time,I-like-to-spend-time-with-my-friends-and-family!)                                                      |
-| 15  | [Which city is your favourite and why?](#Which-city-is-your-favourite-and-why-?)                                                                                                   |
+| 15  | [Which city is your favourite and why?](#Which-city-is-your-favourite-and-why?)                                                                                                   |
 | 16  | [Roles and Responsibility ](#Roles-and-Responsibility)                                                                                                              |
                                                                                  |
                                                                         |
@@ -58,12 +58,12 @@
 
    **[⬆ Back to Top](#table-of-contents)**
 
-7. ### What country do you think is the best to live ?
+7. ### What country do you think is the best to live?
    I love England; its political systems may have flaws but are still much better than those of its closest rivals such as America or other European countries, we also have the world’s strongest currency, free healthcare and other benefits of the wealth fare state to help those in unfortunate situations. if i had to pick a place other than England i would have to say Amsterdam (i know it’s a town but still), it’s quite an odd place but very surreal, and is still a very westernized country so the change wouldn’t be too much from back home
 
    **[⬆ Back to Top](#table-of-contents)**
 
-8. ### What is really the best to live Village or City ?
+8. ### What is really the best to live Village or City?
     ya it is that village life is better than city life because… The cost of living is very high in the city. Most goods are very expensive. There is no fresh air and pure water.  The environment is polluted with dust, smoke, garbage and dioxide gases from factories. Most of the people who live in the city are corrupted. So there are lots of crimes in the city. Many thefts and murders often take place in the city. The city is always busy and noisy. There are a lot of vehicles and people in the road. The streets are dusty and unclean. So it is hard to lead a healthy life in the city. As well as there are so many advantages in the village life. Mainly the people of the village live in unity and peace. The villagers earn money very hard and earn money enough for live. So they live less competition with each other. So they can reach a good position. They have more friends in the community since it is small. The village people always try to protect their traditional habits and culture. The village has clean air and the environment is very beautiful. The village has less noise and rush. So the pollution is less. The village has not lot of vehicles. So roads are less dangerous for driving cycle. They can get fresh vegetables and fresh fruits. The environment of the village is pleasant and silent and it has scenic beauty. The city is full of chemical, if you want to eat sweet you have to eat many chemical present in sweet like chocolates but in village sweets are made up of pure ghee and milk.
 
 
@@ -74,11 +74,11 @@
 
    **[⬆ Back to Top](#table-of-contents)**
 
-10.### Advantages & Disadvantages of the Use of Email as a Business Communications Tool
+10.### Advantages and Disadvantages of the Internet
        It effects our eyesight and it also gives us knowledge Advantages: You can conduct personal and business transactions from your home. You can even work from home because of the internet. You can access information quickly from anyone, anywhere in the world. The internet has helped the economy grow faster. People no longer have to waste travel time to go shopping. Disadvantages: Hackers can steal money from your accounts. People can con you out of money through the internet and not get caught if they know how to do it right. Criminals can use the internet for their own purposes (child porn, fraudulent sales, hacking bank accounts, stealing personal and private information, etc.) The advantages are limitless. Speedy access to information of any kind, relationships with other people around the world, and entertainment are all provided by the internet. Likewise, the disadvantages are just as large. Jerks (trolls) on the internet bully, viruses infect your computer and using the internet takes up valuable time.You decide how you want to use it.
     **[⬆ Back to Top](#table-of-contents)**
 
-11. ### Why English Is Important ?
+11. ### Why English Is Important?
     It effects our eyesight and it also gives us knowledge Advantages: You can conduct personal and business transactions from your home. You can even work from home because of the internet. You can access information quickly from anyone, anywhere in the world. The internet has helped the economy grow faster. People no longer have to waste travel time to go shopping. Disadvantages: Hackers can steal money from your accounts. People can con you out of money through the internet and not get caught if they know how to do it right. Criminals can use the internet for their own purposes (child porn, fraudulent sales, hacking bank accounts, stealing personal and private information, etc.) The advantages are limitless. Speedy access to information of any kind, relationships with other people around the world, and entertainment are all provided by the internet. Likewise, the disadvantages are just as large. Jerks (trolls) on the internet bully, viruses infect your computer and using the internet takes up valuable time.You decide how you want to use it.
 
     **[⬆ Back to Top](#table-of-contents)**
