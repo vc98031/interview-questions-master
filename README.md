@@ -74,7 +74,7 @@
 
    **[⬆ Back to Top](#table-of-contents)**
 
-10.### Advantages and Disadvantages of the Internet
+10. ### Advantages and Disadvantages of the Internet
        It effects our eyesight and it also gives us knowledge Advantages: You can conduct personal and business transactions from your home. You can even work from home because of the internet. You can access information quickly from anyone, anywhere in the world. The internet has helped the economy grow faster. People no longer have to waste travel time to go shopping. Disadvantages: Hackers can steal money from your accounts. People can con you out of money through the internet and not get caught if they know how to do it right. Criminals can use the internet for their own purposes (child porn, fraudulent sales, hacking bank accounts, stealing personal and private information, etc.) The advantages are limitless. Speedy access to information of any kind, relationships with other people around the world, and entertainment are all provided by the internet. Likewise, the disadvantages are just as large. Jerks (trolls) on the internet bully, viruses infect your computer and using the internet takes up valuable time.You decide how you want to use it.
     **[⬆ Back to Top](#table-of-contents)**
 
