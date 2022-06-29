@@ -11,15 +11,15 @@
 | 4   | [The best time of the year](#The-best-time-of-the-year)                                                                                 |
 | 5   | [My Favorite Day of the Week](#My-Favorite-Day-of-the-Week)                                                                   |
 | 6   | [What is your field ? Why did you choose this field ?](#What-is-your-field-?-Why-did-you-choose-this-field-?)                                                                 |
-| 7   | [What country do you think is the best to live ?](#What-country-do-you-think-is-the-best-to-live ?)                                                               |
+| 7   | [What country do you think is the best to live ?](#What-country-do-you-think-is-the-best-to-live-?)                                                               |
 | 8   | [What is really the best to live Village or City ?](#What-is-really-the-best-to-live-Village-or-City-?)                                                                                         |
 | 9   | [The Good & Bad uses of computers](#The-Good-&-Bad-uses-of-computers)                                                |
 | 10  | [Advantages and Disadvantages of the Internet](#Advantages-and-Disadvantages-of-the-Internet)                                                                                         |
 | 11  | [Why English Is Important ?](#what-is-a-first-class-function)                                                                                                 |
 | 12  | [Advantages & Disadvantages of the Use of Email](#Advantages-&-Disadvantages-of-the-Use-of-Email)                                                                                                |
 | 13  | [Advantages and disadvantages of mobile phones](#Advantages-and-disadvantages-of-mobile-phones)                                                                                               |
-| 14  | [In my free time, I like to spend time with my friends and family!](#In-my-free-time, I-like-to-spend-time-with-my-friends-and-family!)                                                      |
-| 15  | [Which city is your favourite and why?](#Which-city-is-your-favourite-and-why?)                                                                                                   |
+| 14  | [In my free time, I like to spend time with my friends and family!](#In-my-free-time,I-like-to-spend-time-with-my-friends-and-family!)                                                      |
+| 15  | [Which city is your favourite and why?](#Which-city-is-your-favourite-and-why-?)                                                                                                   |
 | 16  | [Roles and Responsibility ](#Roles-and-Responsibility)                                                                                                              |
                                                                                  |
                                                                         |
